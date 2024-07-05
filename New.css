@@ -1,0 +1,22 @@
+header{
+    font-size: large;
+    text-align: center;
+}
+main{
+    background-color: yellowgreen;
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 4em;
+    margin-right: 4em;
+    padding-top: 3em;
+    padding-bottom: 40em;
+    font-size: 2em;
+}
+#input{
+    font-size: 20px;
+}
+#mylist{
+    display: block;
+    position: absolute;
+    justify-content: left;
+}
