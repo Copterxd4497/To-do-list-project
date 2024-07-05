@@ -14,3 +14,5 @@ document.addEventListener('click', function () {
         }
     });
 });
+
+console.log('what is this man');
